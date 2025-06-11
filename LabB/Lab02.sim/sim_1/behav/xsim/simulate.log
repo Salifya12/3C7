@@ -1,0 +1,8 @@
+Time resolution is 1 ps
+time test-in0 test-in1 test-out 
+                   0 00 00 0
+                 200 01 00 1
+                 400 01 11 0
+                 600 10 10 0
+                 800 10 00 1
+                1000 11 11 0

@@ -1,0 +1,13 @@
+0.7
+2020.2
+Dec 15 2024
+09:05:09
+C:/Users/salif/Documents/3C7 Labs/Assignment02/Assignment02.sim/sim_1/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,,,,,,,
+C:/Users/salif/Documents/3C7 Labs/Assignment02/Assignment02.srcs/sources_1/new/FSM.v,1743949850,verilog,,C:/Users/salif/Documents/3C7 Labs/Assignment02/Assignment02.srcs/sources_1/new/fsmTb.v,,FSM,,,,,,,,
+C:/Users/salif/Documents/3C7 Labs/Assignment02/Assignment02.srcs/sources_1/new/fsmTb.v,1743963966,verilog,,,,fsmTb,,,,,,,,
+C:/Users/salif/Documents/3C7 Labs/Assignment02/Assignment02.srcs/sources_1/new/fullCountMod.v,1743947125,verilog,,C:/Users/salif/Documents/3C7 Labs/Assignment02/Assignment02.srcs/sources_1/new/fsmTb.v,,fullCountMod,,,,,,,,
+C:/Users/salif/Documents/3C7 Labs/Assignment02/Assignment02.srcs/sources_1/new/topMod.v,1743770710,verilog,,C:/Users/salif/Documents/3C7 Labs/Assignment02/Assignment02.srcs/sources_1/new/topModTb.v,,topMod,,,,,,,,
+C:/Users/salif/Documents/3C7 Labs/Assignment02/Assignment02.srcs/sources_1/new/topModTb.v,1743770709,verilog,,,,topModTb,,,,,,,,
+C:/Users/salif/Documents/3C7 Labs/Assignment02/Code files/LFSR.v,1743947128,verilog,,C:/Users/salif/Documents/3C7 Labs/Assignment02/Code files/MSBcounter.v,,LFSR,,,,,,,,
+C:/Users/salif/Documents/3C7 Labs/Assignment02/Code files/MSBcounter.v,1743761653,verilog,,C:/Users/salif/Documents/3C7 Labs/Assignment02/Assignment02.srcs/sources_1/new/fullCountMod.v,,MSBcounter,,,,,,,,
+C:/Users/salif/Documents/3C7 Labs/Assignment02/Code files/disp_hex_mux.v,1743761854,verilog,,C:/Users/salif/Documents/3C7 Labs/Assignment02/Assignment02.srcs/sources_1/new/topMod.v,,disp_hex_mux,,,,,,,,

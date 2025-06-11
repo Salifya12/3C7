@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2.1 (64-bit)
+# SW Build 5266912 on Sun Dec 15 09:03:24 MST 2024
+# IP Build 5264866 on Sun Dec 15 16:27:47 MST 2024
+# SharedData Build 5264680 on Wed Dec 11 12:48:36 MST 2024
+# Start of session at: Fri Mar 21 11:15:48 2025
+# Process ID         : 5944
+# Current directory  : C:/Users/salif/Documents/3C7 Labs/LabF/PartD/PartD.runs/synth_1
+# Command line       : vivado.exe -log top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source top.tcl
+# Log file           : C:/Users/salif/Documents/3C7 Labs/LabF/PartD/PartD.runs/synth_1/top.vds
+# Journal file       : C:/Users/salif/Documents/3C7 Labs/LabF/PartD/PartD.runs/synth_1\vivado.jou
+# Running On         : Salifya
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : 13th Gen Intel(R) Core(TM) i7-1355U
+# CPU Frequency      : 2611 MHz
+# CPU Physical cores : 10
+# CPU Logical cores  : 12
+# Host memory        : 16891 MB
+# Swap memory        : 1073 MB
+# Total Virtual      : 17965 MB
+# Available Virtual  : 3958 MB
+#-----------------------------------------------------------
+source top.tcl -notrace

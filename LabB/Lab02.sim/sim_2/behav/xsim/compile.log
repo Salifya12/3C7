@@ -1,0 +1,10 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/salif/Documents/3C7 Labs/Lab02/LabB-codes/GreaterThan.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module GreaterThan
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/salif/Documents/3C7 Labs/Lab02/LabB-codes/eq1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module eq1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/salif/Documents/3C7 Labs/Lab02/LabB-codes/eq2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module eq2
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/salif/Documents/3C7 Labs/Lab02/Lab02.srcs/sources_1/new/greaterOrEqual.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module greaterOrEqual
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/salif/Documents/3C7 Labs/Lab02/Lab02.srcs/sources_1/new/greaterOrEqualTb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module greaterOrEqualTb

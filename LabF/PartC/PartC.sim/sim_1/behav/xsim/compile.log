@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/salif/Documents/3C7 Labs/LabF/PartC/PartC.srcs/sources_1/new/LFSR.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module LFSR
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/salif/Documents/3C7 Labs/LabF/PartC/PartC.srcs/sources_1/new/MSBcounter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MSBcounter
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/salif/Documents/3C7 Labs/LabF/PartC/PartC.srcs/sources_1/new/counterTestbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module counterTestbenchmodule

@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../LabB-codes/GreaterThan.v" \
+"../../../../LabB-codes/eq1.v" \
+"../../../../LabB-codes/eq2.v" \
+"../../../../Lab02.srcs/sources_1/new/greaterOrEqual.v" \
+"../../../../Lab02.srcs/sources_1/new/greaterOrEqualTb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

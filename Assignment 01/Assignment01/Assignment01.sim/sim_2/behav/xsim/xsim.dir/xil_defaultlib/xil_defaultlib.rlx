@@ -1,0 +1,16 @@
+0.7
+2020.2
+Dec 15 2024
+09:05:09
+C:/Users/salif/Documents/3C7 Labs/Assignment 01/Assignment01/Assignment01.sim/sim_2/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,,,,,,,
+C:/Users/salif/Documents/3C7 Labs/Assignment 01/Assignment01/Assignment01.srcs/sources_1/new/ALU.v,1741815127,verilog,,C:/Users/salif/Documents/3C7 Labs/Assignment 01/Assignment01/Assignment01.srcs/sources_1/new/ALU_Logic.v,,ALU,,,,,,,,
+C:/Users/salif/Documents/3C7 Labs/Assignment 01/Assignment01/Assignment01.srcs/sources_1/new/ALU_Logic.v,1742148755,verilog,,C:/Users/salif/Documents/3C7 Labs/Assignment 01/Sources/GreaterThan.v,,ALU_Logic,,,,,,,,
+C:/Users/salif/Documents/3C7 Labs/Assignment 01/Assignment01/Assignment01.srcs/sources_1/new/ALU_Negation_Testbench.v,1742144788,verilog,,,,ALU_Testbench,,,,,,,,
+C:/Users/salif/Documents/3C7 Labs/Assignment 01/Assignment01/Assignment01.srcs/sources_1/new/bitwiseXNOR.v,1741796798,verilog,,C:/Users/salif/Documents/3C7 Labs/Assignment 01/Sources/eq1.v,,bitwiseXNOR,,,,,,,,
+C:/Users/salif/Documents/3C7 Labs/Assignment 01/Assignment01/Assignment01.srcs/sources_1/new/lessThan.v,1741811531,verilog,,C:/Users/salif/Documents/3C7 Labs/Assignment 01/Assignment01/Assignment01.srcs/sources_1/new/ALU_Negation_Testbench.v,,lessThan,,,,,,,,
+C:/Users/salif/Documents/3C7 Labs/Assignment 01/Sources/6bit_ripple_adder.v,1740851305,verilog,,C:/Users/salif/Documents/3C7 Labs/Assignment 01/Assignment01/Assignment01.srcs/sources_1/new/ALU.v,,bit_ripple_adder,,,,,,,,
+C:/Users/salif/Documents/3C7 Labs/Assignment 01/Sources/GreaterThan.v,1739279891,verilog,,C:/Users/salif/Documents/3C7 Labs/Assignment 01/Assignment01/Assignment01.srcs/sources_1/new/bitwiseXNOR.v,,GreaterThan,,,,,,,,
+C:/Users/salif/Documents/3C7 Labs/Assignment 01/Sources/eq1.v,1739279238,verilog,,C:/Users/salif/Documents/3C7 Labs/Assignment 01/Sources/eq2.v,,eq1,,,,,,,,
+C:/Users/salif/Documents/3C7 Labs/Assignment 01/Sources/eq2.v,1739279390,verilog,,C:/Users/salif/Documents/3C7 Labs/Assignment 01/Sources/full_adder.v,,eq2,,,,,,,,
+C:/Users/salif/Documents/3C7 Labs/Assignment 01/Sources/full_adder.v,1739531254,verilog,,C:/Users/salif/Documents/3C7 Labs/Assignment 01/Sources/greaterOrEqual.v,,FullAdder,,,,,,,,
+C:/Users/salif/Documents/3C7 Labs/Assignment 01/Sources/greaterOrEqual.v,1742060746,verilog,,C:/Users/salif/Documents/3C7 Labs/Assignment 01/Assignment01/Assignment01.srcs/sources_1/new/lessThan.v,,greaterOrEqual,,,,,,,,

@@ -1,0 +1,9 @@
+0.7
+2020.2
+Dec 15 2024
+09:05:09
+C:/Users/salif/Documents/3C7 Labs/Lab02/Lab02.sim/sim_1/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,,,,,,,
+C:/Users/salif/Documents/3C7 Labs/Lab02/LabB-codes/GreaterThan.v,1739279891,verilog,,C:/Users/salif/Documents/3C7 Labs/Lab02/LabB-codes/eq2_tb.v,,GreaterThan,,,,,,,,
+C:/Users/salif/Documents/3C7 Labs/Lab02/LabB-codes/eq1.v,1739279238,verilog,,C:/Users/salif/Documents/3C7 Labs/Lab02/LabB-codes/eq2.v,,eq1,,,,,,,,
+C:/Users/salif/Documents/3C7 Labs/Lab02/LabB-codes/eq2.v,1739279390,verilog,,C:/Users/salif/Documents/3C7 Labs/Lab02/LabB-codes/eq2_tb.v,,eq2,,,,,,,,
+C:/Users/salif/Documents/3C7 Labs/Lab02/LabB-codes/eq2_tb.v,1739279947,verilog,,,,eq2_testbench,,,,,,,,

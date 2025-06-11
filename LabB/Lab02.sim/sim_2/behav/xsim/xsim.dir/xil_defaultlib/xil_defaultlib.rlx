@@ -1,0 +1,10 @@
+0.7
+2020.2
+Dec 15 2024
+09:05:09
+C:/Users/salif/Documents/3C7 Labs/Lab02/Lab02.sim/sim_2/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,,,,,,,
+C:/Users/salif/Documents/3C7 Labs/Lab02/Lab02.srcs/sources_1/new/greaterOrEqual.v,1742060823,verilog,,C:/Users/salif/Documents/3C7 Labs/Lab02/Lab02.srcs/sources_1/new/greaterOrEqualTb.v,,greaterOrEqual,,,,,,,,
+C:/Users/salif/Documents/3C7 Labs/Lab02/Lab02.srcs/sources_1/new/greaterOrEqualTb.v,1741905397,verilog,,,,greaterOrEqualTb,,,,,,,,
+C:/Users/salif/Documents/3C7 Labs/Lab02/LabB-codes/GreaterThan.v,1739279891,verilog,,C:/Users/salif/Documents/3C7 Labs/Lab02/LabB-codes/eq1.v,,GreaterThan,,,,,,,,
+C:/Users/salif/Documents/3C7 Labs/Lab02/LabB-codes/eq1.v,1739279238,verilog,,C:/Users/salif/Documents/3C7 Labs/Lab02/LabB-codes/eq2.v,,eq1,,,,,,,,
+C:/Users/salif/Documents/3C7 Labs/Lab02/LabB-codes/eq2.v,1739279390,verilog,,C:/Users/salif/Documents/3C7 Labs/Lab02/Lab02.srcs/sources_1/new/greaterOrEqual.v,,eq2,,,,,,,,

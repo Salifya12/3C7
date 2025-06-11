@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../Provided code/d_type_ff.v" \
+"../../../../../Provided code/debouncer.v" \
+"../../../../../Provided code/sevenseg.v" \
+"../../../../PartB.srcs/sources_1/new/top_mod.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

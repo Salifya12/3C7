@@ -1,0 +1,26 @@
+#-----------------------------------------------------------
+# Vivado v2024.2.1 (64-bit)
+# SW Build 5266912 on Sun Dec 15 09:03:24 MST 2024
+# IP Build 5264866 on Sun Dec 15 16:27:47 MST 2024
+# SharedData Build 5264680 on Wed Dec 11 12:48:36 MST 2024
+# Start of session at: Thu Mar 20 18:16:01 2025
+# Process ID         : 4452
+# Current directory  : C:/Users/salif/Documents/3C7 Labs/Assignment 01/Assignment01
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent13972 C:\Users\salif\Documents\3C7 Labs\Assignment 01\Assignment01\Assignment01.xpr
+# Log file           : C:/Users/salif/Documents/3C7 Labs/Assignment 01/Assignment01/vivado.log
+# Journal file       : C:/Users/salif/Documents/3C7 Labs/Assignment 01/Assignment01\vivado.jou
+# Running On         : Salifya
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : 13th Gen Intel(R) Core(TM) i7-1355U
+# CPU Frequency      : 2611 MHz
+# CPU Physical cores : 10
+# CPU Logical cores  : 12
+# Host memory        : 16891 MB
+# Swap memory        : 1073 MB
+# Total Virtual      : 17965 MB
+# Available Virtual  : 6570 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/salif/Documents/3C7 Labs/Assignment 01/Assignment01/Assignment01.xpr}
+update_compile_order -fileset sources_1

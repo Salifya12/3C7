@@ -1,0 +1,22 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/salif/Documents/3C7 Labs/Assignment 01/Sources/6bit_ripple_adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bit_ripple_adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/salif/Documents/3C7 Labs/Assignment 01/Assignment01/Assignment01.srcs/sources_1/new/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/salif/Documents/3C7 Labs/Assignment 01/Assignment01/Assignment01.srcs/sources_1/new/ALU_Logic.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_Logic
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/salif/Documents/3C7 Labs/Assignment 01/Sources/GreaterThan.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module GreaterThan
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/salif/Documents/3C7 Labs/Assignment 01/Assignment01/Assignment01.srcs/sources_1/new/bitwiseXNOR.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bitwiseXNOR
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/salif/Documents/3C7 Labs/Assignment 01/Sources/eq1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module eq1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/salif/Documents/3C7 Labs/Assignment 01/Sources/eq2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module eq2
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/salif/Documents/3C7 Labs/Assignment 01/Sources/full_adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FullAdder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/salif/Documents/3C7 Labs/Assignment 01/Sources/greaterOrEqual.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module greaterOrEqual
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/salif/Documents/3C7 Labs/Assignment 01/Assignment01/Assignment01.srcs/sources_1/new/lessThan.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module lessThan
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/salif/Documents/3C7 Labs/Assignment 01/Assignment01/Assignment01.srcs/sources_1/new/ALU_Negation_Testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_Testbench

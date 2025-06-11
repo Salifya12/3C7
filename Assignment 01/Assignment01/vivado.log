@@ -1,0 +1,40 @@
+#-----------------------------------------------------------
+# Vivado v2024.2.1 (64-bit)
+# SW Build 5266912 on Sun Dec 15 09:03:24 MST 2024
+# IP Build 5264866 on Sun Dec 15 16:27:47 MST 2024
+# SharedData Build 5264680 on Wed Dec 11 12:48:36 MST 2024
+# Start of session at: Thu Mar 20 18:16:01 2025
+# Process ID         : 4452
+# Current directory  : C:/Users/salif/Documents/3C7 Labs/Assignment 01/Assignment01
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent13972 C:\Users\salif\Documents\3C7 Labs\Assignment 01\Assignment01\Assignment01.xpr
+# Log file           : C:/Users/salif/Documents/3C7 Labs/Assignment 01/Assignment01/vivado.log
+# Journal file       : C:/Users/salif/Documents/3C7 Labs/Assignment 01/Assignment01\vivado.jou
+# Running On         : Salifya
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : 13th Gen Intel(R) Core(TM) i7-1355U
+# CPU Frequency      : 2611 MHz
+# CPU Physical cores : 10
+# CPU Logical cores  : 12
+# Host memory        : 16891 MB
+# Swap memory        : 1073 MB
+# Total Virtual      : 17965 MB
+# Available Virtual  : 6570 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/salif/Documents/3C7 Labs/Assignment 01/Assignment01/Assignment01.xpr}
+WARNING: [Board 49-26] cannot add Board Part digilentinc.com:arty-s7-25:part0:1.1 available at C:/Xilinx/Vivado/2024.2/data/boards/board_files/arty-s7-25/E.0/board.xml as part xc7s25csga324-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part digilentinc.com:arty-s7-50:part0:1.1 available at C:/Xilinx/Vivado/2024.2/data/boards/board_files/arty-s7-50/B.0/board.xml as part xc7s50csga324-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part digilentinc.com:cmod-s7-25:part0:1.0 available at C:/Xilinx/Vivado/2024.2/data/boards/board_files/cmod-s7-25/B.0/board.xml as part xc7s25csga225-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part digilentinc.com:genesys2:part0:1.1 available at C:/Xilinx/Vivado/2024.2/data/boards/board_files/genesys2/H/board.xml as part xc7k325tffg900-2 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part digilentinc.com:sword:part0:1.0 available at C:/Xilinx/Vivado/2024.2/data/boards/board_files/sword/C.0/board.xml as part xc7k325tffg900-2 specified in board_part file is either invalid or not available
+INFO: [filemgmt 56-3] Default IP Output Path : Could not find the directory 'C:/Users/salif/Documents/3C7 Labs/Assignment 01/Assignment01/Assignment01.gen/sources_1'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2024.2/data/ip'.
+open_project: Time (s): cpu = 00:00:34 ; elapsed = 00:00:21 . Memory (MB): peak = 1268.500 ; gain = 193.801
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Thu Mar 20 18:25:06 2025...

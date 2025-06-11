@@ -1,0 +1,14 @@
+Time resolution is 1 ps
+time test-in0 test-in1 test-out 
+                   0 01111000 11110000 0
+                 200 00000001 00000100 0
+                 400 00010000 00101001 0
+                 600 10000000 10000010 0
+                 800 11111111 11111111 1
+                1000 00000010 00000000 1
+                1200 00010100 10100101 0
+                1400 10010100 10100101 0
+                1600 11010100 00100101 1
+                1800 11010100 10100101 1
+                2000 11010100 10110101 1
+$stop called at time : 2200 ns : File "C:/Users/salif/Documents/3C7 Labs/Lab02/Lab02.srcs/sources_1/new/greaterOrEqualTb.v" Line 84
